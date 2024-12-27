@@ -7,8 +7,8 @@
 
 ### 1. Objetivo:
 Con lo aprendido en los cursos de la Formación " Programación en JAVA" crear un Programa que permita la consulta de un catálogo de libros para  ello se debe emplear el conocimiento adquirido en los siguientes cursos:
-Java: trabajando con lambdas, streams y Spring Framework
-Java: persistencia de datos y consultas con Spring Data JPA
+•Java: trabajando con lambdas, streams y Spring Framework
+•Java: persistencia de datos y consultas con Spring Data JPA
 
 
 ### 2.Conocimientos a Aplicar: 
